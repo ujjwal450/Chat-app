@@ -3,7 +3,7 @@
 Chat app is a Real Time chat application where users can create or join chat rooms and chat with other users.
 
 This app was built using Socket.io which is a JavaScript library that that enables low-latency, bidirectional and event-based communication between a client and a server.
-Frontend was done using HTML, CSS and JavaScript
+Frontend was done using HTML, CSS and JavaScript.
 
 # Homepage:
 
